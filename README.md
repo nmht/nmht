@@ -1,8 +1,8 @@
-### Hello World! 👋
+Hello World! Welcome to my repositories!👋👋👋
 
-# Project Code
-sp - small project
-tp - temporary project
-cp - clone project
-pp - personal project
-rp - real project
+## This is my Project Code
+1. sp - small project
+2. tp - temporary project
+3. cp - clone project
+4. pp - personal project
+5. rp - real project
