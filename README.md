@@ -9,5 +9,3 @@ tp - taught project
 cp - clone project
 
 pp - personal project
-
-rp - real project
