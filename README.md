@@ -4,7 +4,7 @@ Hello World! Welcome to my repositories!👋👋👋
 
 sp - small project
 
-tp - taught project
+ep - educational project
 
 cp - clone project
 
