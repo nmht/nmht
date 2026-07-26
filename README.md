@@ -1,14 +1,14 @@
 # Hi there, I'm Thien Nguyen 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Full-Stack%20Software%20Engineer&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Full-Stack%20Developer&fontSize=40" />
 </div>
 
 ## 👨‍💻 About Me
 
-I am a Full-Stack Software Engineer specializing in building robust, high-performance enterprise applications. I am passionate about crafting distributed systems, optimizing backend infrastructure, and designing maintainable codebases using **Clean Architecture** principles. 
+I am a Full-Stack Developer specializing in building robust, high-performance enterprise applications. I am passionate about crafting distributed systems, optimizing backend infrastructure, and designing maintainable codebases. 
 
-- 🏗️ **Focus areas:** Microservices architecture, distributed systems, and full-stack system observability.
+- 🏗️ **Focus areas:** Microservices architecture, Clean architecture, distributed systems, and full-stack system observability.
 - 🚀 **Currently exploring:** Advanced self-hosted infrastructure, local AI integrations, and cross-platform mobile development.
 - 📫 **How to reach me:** nmhoangthien@gmail.com
 
@@ -37,20 +37,7 @@ I am a Full-Stack Software Engineer specializing in building robust, high-perfor
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
 
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmht&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nmht&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmht&layout=compact&theme=radical&hide_border=true" width="50%" />
-</div>
-
----
 <!--
 ## 💼 Featured Projects
 *Here are a few things I've built or am currently working on:*
