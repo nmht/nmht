@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Hi%20there,%20I'm%20Thien%20Nguyen%20👋&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=180&section=header&text=Hi%20there,%20I'm%20Thien%20Nguyen%20👋&fontSize=32" />
 </div>
 
 ## 👨‍💻 About Me
