@@ -1,7 +1,5 @@
-# Hi there, I'm Thien Nguyen 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Full-Stack%20Developer&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&height=200&section=header&text=Hi%20there,%20I'm%20Thien%20Nguyen%20👋&fontSize=40" />
 </div>
 
 ## 👨‍💻 About Me
@@ -11,8 +9,6 @@ I am a Full-Stack Developer specializing in building robust, high-performance en
 - 🏗️ **Focus areas:** Microservices architecture, Clean architecture, distributed systems, and full-stack system observability.
 - 🚀 **Currently exploring:** Advanced self-hosted infrastructure, local AI integrations, and cross-platform mobile development.
 - 📫 **How to reach me:** nmhoangthien@gmail.com
-
----
 
 ## 🛠️ Tech Stack & Tools
 
